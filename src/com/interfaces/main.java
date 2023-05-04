@@ -9,6 +9,6 @@ public class main {
         cocheCRUD.findAll();
         cocheCRUD.delete();
 
-        System.out.println("Prueba v1");
+        System.out.println("Prueba v2");
     }
 }
