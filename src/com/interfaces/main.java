@@ -8,5 +8,7 @@ public class main {
         cocheCRUD.save();
         cocheCRUD.findAll();
         cocheCRUD.delete();
+
+        System.out.println("Prueba v1");
     }
 }
